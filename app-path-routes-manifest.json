@@ -1,0 +1,23 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/admin/activities/page": "/admin/activities",
+  "/admin/deposits/page": "/admin/deposits",
+  "/admin/financial/page": "/admin/financial",
+  "/admin/page": "/admin",
+  "/admin/pages/page": "/admin/pages",
+  "/admin/settings/page": "/admin/settings",
+  "/admin/users/page": "/admin/users",
+  "/admin/withdrawals/page": "/admin/withdrawals",
+  "/dashboard/page": "/dashboard",
+  "/deposit/page": "/deposit",
+  "/favicon.ico/route": "/favicon.ico",
+  "/login/page": "/login",
+  "/page": "/",
+  "/profile/[id]/page": "/profile/[id]",
+  "/profile/page": "/profile",
+  "/register/page": "/register",
+  "/settings/page": "/settings",
+  "/users/page": "/users",
+  "/withdraw/page": "/withdraw"
+}
